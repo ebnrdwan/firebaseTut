@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebaseTut</string>
+    <string name="token">TOKENFLAG</string>
+</resources>

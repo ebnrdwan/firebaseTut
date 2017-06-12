@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backenda/backenda.iml" filepath="$PROJECT_DIR$/backenda/backenda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudname/cloudname.iml" filepath="$PROJECT_DIR$/cloudname/cloudname.iml" />
       <module fileurl="file://$PROJECT_DIR$/firebaseTut.iml" filepath="$PROJECT_DIR$/firebaseTut.iml" />
     </modules>
   </component>

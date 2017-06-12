@@ -16,6 +16,7 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
+import com.example.abdulrhman.myapplication.backend.myApi.MyApi;
 import com.google.firebase.iid.FirebaseInstanceId;
 
 import java.util.HashMap;
@@ -25,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
 
     String url = "http://10.0.2.2/fcmtut/fcmtut_insert.php";
     Button button;
+    MyApi api ;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
